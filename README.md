@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=techiedev-com&label=Profile%20views&color=0e75b6&style=flat" alt="techiedev-com" /> </p>
 
-- 🔭 I’m currently teaching programming to beginners **PHP Beginners**
+- 🔭 I’m currently teaching **PHP Programming Beginners**
 
 - 🌱 I’m currently learning **Laravel and exploring Cybersecurity concepts**
 
 - 👯 I’m looking to collaborate on **Open-Source Projects and Cybersecurity Research**
 
-- 🤝 I’m looking for help with **new programming languages**
+- 🤝 I’m looking for help with **New Programming Languages**
 
 - 👨‍💻 All of my projects are available at [https://github.com/TechieDev-com](https://github.com/TechieDev-com)
 
